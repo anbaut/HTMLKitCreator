@@ -1,2 +1,3 @@
 # HTMLKitCreator
-Créateur de kit html ( routage emailing )
+
+Ce script permet de créer les kits HTML nécessaires pour du routage emailing.
